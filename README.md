@@ -2,12 +2,6 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   I'm Ailton D. Vieira! 👨‍💻
   </h2>
-
- <div align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ailton-d/)](https://www.linkedin.com/in/ailton-d/)
-  [![Linkedin Badge](https://img.shields.io/badge/-Instagram-ED4956?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrohenry_santos/)](https://www.instagram.com/ailton.strawti/)
-
-  </div>
   
   <br/>
 
