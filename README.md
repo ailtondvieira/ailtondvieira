@@ -12,7 +12,6 @@
     
    <center>
     <table border="0">
-      
       <tr>
         <td align="center">
            <img width="360px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailtondvieira&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=8&cache_seconds=3600"/>
