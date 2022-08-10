@@ -12,11 +12,7 @@
     
    <center>
     <table border="0">
-      <tr>
-        <td colspan="2" align="center">
-          <img width="600px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ailtondvieira&theme=tokyonight"/>
-        </td>
-      </tr>
+      
       <tr>
         <td align="center">
            <img width="360px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailtondvieira&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=8&cache_seconds=3600"/>
